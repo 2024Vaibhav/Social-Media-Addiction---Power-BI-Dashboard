@@ -22,3 +22,7 @@ Relationship status distribution
 Platform usage vs addiction score
 Academic performance impact by sleep and usage
 Country-wise student distribution by academic level
+Feel free to explore the report and share your feedback!
+
+🔗 Project Author:
+Developed by Vaibhav
