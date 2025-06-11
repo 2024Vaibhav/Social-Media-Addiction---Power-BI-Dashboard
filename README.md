@@ -1,2 +1,24 @@
 # Social-Media-Addiction---Power-BI-Dashboard
-This project analyzes the impact of social media usage on students' mental health, sleep patterns, and academic performance using an interactive Power BI dashboard.
+This project analyzes the impact of social media usage on students' mental health, sleep patterns, and academic performance using an interactive Power BI dashboard.🚀 Project Objective
+Analyze data of 705 students across different countries and academic levels.
+Understand how average daily usage and platform preferences impact mental health and academic performance.
+Visualize relationship status distribution and its correlation with mental health.
+
+🔧 Tools Used
+#Power BI
+#DAX
+#Data Cleaning & Preparation
+
+📈 Key Insights
+Average daily usage: 5.36 hours/day
+Average mental health score: 6.23
+Average sleep hour/night: 7.33 hours
+Most used platforms: WhatsApp, TikTok, Snapchat, Instagram, etc.
+Relationship status breakdown: Single, In Relationship, Complicated
+Mental health score is slightly better for those in relationships.
+
+📊 Visualizations
+Relationship status distribution
+Platform usage vs addiction score
+Academic performance impact by sleep and usage
+Country-wise student distribution by academic level
